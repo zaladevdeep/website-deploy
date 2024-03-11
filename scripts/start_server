@@ -1,3 +1,6 @@
 #!/bin/bash
 sudo service apache2 start
 
+cd /home/ubuntu
+chmod +x aa.sh
+sudo ./aa.sh
