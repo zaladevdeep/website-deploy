@@ -4,7 +4,7 @@ files:
   - source: /index.html	  
     destination: /var/www/html/	    
   - source: /fold    
-    destination: /home/ubuntu/
+    destination: /home/ubuntu/fold
 hooks:	
   BeforeInstall:	 
     - location: scripts/install_dependencies	   
