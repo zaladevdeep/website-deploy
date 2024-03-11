@@ -1,4 +1,4 @@
 #!/bin/bash
-cd /home/ubuntu
-sudo chmod +x fold/aa.sh
-sudo ./fold/aa.sh
+cd /home/ubuntu/fold
+sudo chmod +x aa.sh
+sudo ./aa.sh
