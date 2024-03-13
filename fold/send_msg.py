@@ -10,6 +10,6 @@ def send_msg(message):
     # print(requests.get(url).json())
     requests.get(url)
 i=0
-while i<10:
+while i<5:
     send_msg(f"hello {i}")
     i+=1
