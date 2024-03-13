@@ -1,2 +1,2 @@
 @reboot sudo systemctl start codedeploy-agent
-30 09 * * * cd /home/ubuntu/fold && python3 send_msg.py >> /home/ubuntu/fold/cron.log 2>&1
+52 09 * * * cd /home/ubuntu/fold && python3 send_msg.py >> /home/ubuntu/fold/cron.log 2>&1
