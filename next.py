@@ -1,0 +1,2 @@
+deveep = "Hi"
+ddzala = "HELLO"
