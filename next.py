@@ -1,2 +1,0 @@
-deveep = "Hi"
-ddzala = "HELLO"
